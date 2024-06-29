@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in Component <GifItem /> Should match Snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Test"
+      src="https://www.google.com"
+    />
+    <p>
+       
+      Test
+       
+    </p>
+  </div>
+</div>
+`;
